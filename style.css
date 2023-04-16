@@ -36,7 +36,7 @@ header{
     font-size: 15px;
 }
 .menu-nav a:hover{
-    color: #0117E1;
+    color: #2ecc71;
     transition: 0.3s all;
 }
 button{
@@ -79,6 +79,20 @@ span{
     margin-top: 5px;
 }
 .redes a{
-    padding: 10px;
+    padding: 10px;    
+}
+.redes a:hover{
+    color: #ffff;
+    background-color:#2ecc71;
+    border-top-right-radius:50px ;
+    border-top-left-radius:50px ;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius:50px;
+    transition: 0.5s;
+}
+.text-projeto{
+    padding: 5px;
+    margin: 5px;
+    color: #fff;
     
 }
